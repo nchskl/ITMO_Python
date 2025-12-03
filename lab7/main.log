@@ -1,0 +1,12 @@
+2025-12-03 23:17:51 - INFO - Calling get_currencies args = (['qwerty', 'fff'],) kwargs = {'url': 'https://z'}
+2025-12-03 23:17:51 - ERROR - get_currencies is raised API недоступен
+2025-12-03 23:17:51 - INFO - Calling get_currencies args = (['USD', 'EUR'],) kwargs = {}
+2025-12-03 23:17:51 - INFO - get_currencies is finished, result is: {'USD': 77.9556, 'EUR': 90.5903}
+2025-12-03 23:17:51 - INFO - Calling get_currencies args = (['USD', 'EUR'],) kwargs = {}
+2025-12-03 23:17:51 - ERROR - get_currencies is raised JSON некорректен
+2025-12-03 23:17:51 - INFO - Calling get_currencies args = (['USD', 'EUR'],) kwargs = {}
+2025-12-03 23:17:51 - ERROR - get_currencies is raised 'Валюта отсутствует в списке'
+2025-12-03 23:17:51 - INFO - Calling get_currencies args = (['qwerty', 'fff'],) kwargs = {}
+2025-12-03 23:17:52 - ERROR - get_currencies is raised 'Валюта отсутствует в списке'
+2025-12-03 23:18:13 - INFO - Calling get_currencies args = (['USD', 'EUR'],) kwargs = {}
+2025-12-03 23:18:13 - INFO - get_currencies is finished, result is: {'USD': 77.9556, 'EUR': 90.5903}
